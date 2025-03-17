@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaUtensils, FaCookieBite, FaConciergeBell, FaPhone } from 'react-icons/fa';
 import logo from '../assets/logo.png';
-import Navbar from './NavBar';
+import Navbar from './Navbar';
 import Mithai from './Mithai';
 import Nasta from './Nasta';
 import FastFood from './FastFood';
